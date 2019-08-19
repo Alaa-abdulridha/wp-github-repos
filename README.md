@@ -3,6 +3,7 @@
 
 **Tags**: WordPress, GitHub, PHP, Repos
 
+Thanks to [@Yulefier](https://github.com/Yulefier "@Yulefier") for helping and testing.
 # Description
 
 
