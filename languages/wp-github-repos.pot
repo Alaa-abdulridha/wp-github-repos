@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+
+
+msgid "on"
+msgstr ""
+
+
+msgid "Github repos list for a user"
+msgstr ""
+
+msgid "WP Github repos"
+msgstr ""
+
+
+msgid "Recent repos"
+msgstr ""
+
+
+msgid "Title:"
+msgstr ""
+
+
+msgid "User:"
+msgstr ""
+
+
+msgid "Repo:"
+msgstr ""
+
+
+msgid "No of repos to show:"
+msgstr ""
+
+
+
+msgstr ""
+
+
+msgstr ""
+
+
+msgid "Alaa Abdulridha"
+msgstr ""
+
+
+msgstr ""
