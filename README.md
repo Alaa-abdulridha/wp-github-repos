@@ -21,7 +21,7 @@ The plugin save the retrieved data from GitHub for 5 hours so if you wanna delet
 			delete_transient($data);
 			delete_transient($latest); 
 
-#ScreenShots
+# ScreenShots
 [![](https://raw.githubusercontent.com/Alaa-abdulridha/wp-github-repos/master/1.png)](https://raw.githubusercontent.com/Alaa-abdulridha/wp-github-repos/master/1.png)
 [![](https://raw.githubusercontent.com/Alaa-abdulridha/wp-github-repos/master/2.png)](https://raw.githubusercontent.com/Alaa-abdulridha/wp-github-repos/master/2.png)
 [![](https://raw.githubusercontent.com/Alaa-abdulridha/wp-github-repos/master/3.png)](https://raw.githubusercontent.com/Alaa-abdulridha/wp-github-repos/master/3.png)
