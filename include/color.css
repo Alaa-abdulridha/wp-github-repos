@@ -29,7 +29,7 @@
 .Objective-C++ {
   color: #6866fb;
 }
-.C# {
+.Csharp {
   color: #178600;
 }
 .CSS {
@@ -43,4 +43,7 @@
 }
 .Swift {
   color: #ffac45;
+}
+.VisualBasic {
+  color: #6d4f95;
 }
